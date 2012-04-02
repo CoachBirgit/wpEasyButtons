@@ -1,5 +1,5 @@
 === WP EasyButtons ===
-Contributors: Olzem
+Contributors: Birgit Olzem
 Plugin Name: WP EasyButtons
 Plugin URI: http://www.wpct.de/r/wpeasybuttons
 Author: Birgit Olzem
